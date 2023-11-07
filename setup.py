@@ -70,7 +70,7 @@ setuptools.setup(
         "numpy >= 1.15",
         "scipy >= 1.1",
         "pandas >= 0.23",
-        "matplotlib >= 2.2, < 3",
+        "matplotlib >= 2.2",
         "seaborn >= 0.9",
         "scikit-learn >= 0.19",
         "gensim >= 3.7, < 3.8",
