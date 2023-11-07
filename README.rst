@@ -1,3 +1,5 @@
+*This fork adds small changes to try and make the following notebook (https://github.com/npatwari/cse359a_nlp/blob/main/nlp_assignment/nlp_assignment.ipynb) work with less restrictions on matplotlib.  It has not been extensively tested.*
+
 Responsibly
 ===========
 
